@@ -43,7 +43,7 @@ function checkAnswer(currentLevel){
 
 
 function playSound(name){
-    var ad = new Audio("./sounds/" + name + ".mp3");
+    var ad = new Audio("./" + name + ".mp3");
     ad.play();
   }
 
