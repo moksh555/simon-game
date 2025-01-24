@@ -8,7 +8,7 @@
 ## The core mechanics of the Simon game are:
 
 ## The game lights up and plays a tone for a button in a random order.
-## The player must repeat the sequence by pressing the buttons in the correct order.
-## With each round, the sequence gets longer, increasing the challenge.
-## The game ends if the player makes a mistake.
+### The player must repeat the sequence by pressing the buttons in the correct order.
+### With each round, the sequence gets longer, increasing the challenge.
+### The game ends if the player makes a mistake.
 ## It’s simple, fun, and addictive, making it an iconic memory and reflex game. So, Enjoy playing it
